@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adhavan
 
-🎓 **Data Scientist | Machine Learning Researcher | PhD Applicant (2026)**  
+🎓 **Data Scientist | Machine Learning Researcher**  
 📍 India | 🌍 Open to international research collaboration
 
 ---
