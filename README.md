@@ -1,5 +1,145 @@
 # 💫 About Me:
-Hi, I’m Adhavan 👨‍💻<br>A Data Scientist & Machine Learning Researcher passionate about building robust, fair, and scalable AI systems.<br><br>🔍 My interests sit at the intersection of<br><br>Machine Learning & Deep Learning 🤖<br><br>AI Fairness, Safety & Trustworthy AI 🛡️<br><br>Multimodal Learning (Speech, Emotion, Vision) 🎙️🖼️<br><br>Resource-constrained & real-world AI systems 🌍<br><br>🎓 I hold a Master’s degree in Data Science, with strong foundations in<br>probability, optimization, large-scale data processing, and applied ML.<br>I enjoy working on problems that move beyond benchmarks and tackle practical constraints, bias, and evaluation rigor.<br><br>📚 Currently, I am actively applying for PhD positions (2026 intake), aiming to contribute to academically rigorous and socially responsible AI research.<br><br>🧠 I believe good research is not just about higher accuracy—<br>it’s about understanding failure modes, trade-offs, and real impact.<br><br>🚀 Always open to research discussions, collaboration, and ideas that challenge assumptions.
+# 👋 Hi, I'm Adhavan
+
+🎓 **Data Scientist | Machine Learning Researcher | PhD Applicant (2026)**  
+📍 India | 🌍 Open to international research collaboration
+
+---
+
+## 🧠 About Me
+
+I am a **Data Scientist and Machine Learning researcher** with strong interests in **multimodal learning, trustworthy AI, and scalable ML systems**.  
+My work focuses on building **robust, interpretable, and real-world deployable AI models**, especially under **resource, data, and fairness constraints**.
+
+I enjoy working on problems where:
+- theory meets practice  
+- benchmarks meet real deployment noise  
+- accuracy is balanced with robustness, bias, and explainability  
+
+I am currently **applying for PhD programs (Fall 2026)** in **AI / ML / Data Science**, with a research focus on **multimodal intelligence, AI safety, and large-scale learning systems**.
+
+---
+
+## 🔬 Research Interests
+
+- **Multimodal Learning** (Speech · Vision · Text · Emotion)
+- **Deep Learning Architectures** (Transformers, ViT, Self-Supervised Models)
+- **Natural Language Processing & Speech Processing**
+- **AI Fairness, Robustness & Responsible AI**
+- **Scalable & Distributed Machine Learning**
+- **Applied AI in Healthcare, HCI, and Networked Systems**
+
+---
+
+## 🎓 Education
+
+**M.Tech – Data Science**  
+*CHRIST (Deemed to be University), Bengaluru*  
+📅 2024 – 2026 | **GPA: 3.6 / 4.0**  
+**Thesis:** *Real-Time Multimodal Emotion Recognition using Speech–Vision Transformers*
+
+**PG Diploma – Big Data Analytics**  
+*C-DAC, Bengaluru*  
+📅 2024 – 2025 | **CGPA: 9.6 / 10**
+
+**B.Tech – Information Technology**  
+*Manakula Vinayagar Institute of Technology*  
+📅 2020 – 2024
+
+---
+
+## 📄 Publications
+
+- **Stock Market Value Prediction with CNN, RNN, and LSTM Techniques**  
+  *Mechanisms and Machine Science, Springer (2025)*  
+
+---
+
+## 🚀 Selected Research Projects
+
+### 🧠 AI-Based Real-Time Multimodal Emotion Recognition *(Under Review)*
+- Unified multimodal architecture combining **ViT, Swin, ConvNeXt** (vision) with  
+  **HuBERT, Wav2Vec2, OpenL3** (speech)
+- Achieved **97% accuracy** on **FER2025** and **OpenSER-700K**
+- Built a **real-time inference system** robust to noise, lighting variation, and speaker diversity
+
+---
+
+### 🎙️ Speech Emotion Recognition with HuBERT & RNN (Apache Spark)
+- Fine-tuned **HuBERT embeddings** with stacked RNNs
+- Evaluated across **TESS, RAVDESS, CREMA-D**
+- Achieved **93% accuracy**
+- Implemented **distributed preprocessing and training pipelines** using Spark
+
+---
+
+### 🌿 Multi-Disease Detection on Single Leaf (CNN + ViT)
+- Hybrid CNN–Vision Transformer architecture
+- **95% accuracy** on 10,000+ images
+- Focus on training stability, convergence, and generalization
+
+---
+
+### 🏥 Patient Readmission Prediction
+- Ensemble ML models on EHR/LIS data
+- **95% accuracy** with bias-aware feature engineering
+- Built clinician-facing dashboards (React + Tableau)
+
+---
+
+## 🛠️ Technical Skills
+
+**AI / ML**  
+Machine Learning, Deep Learning, Reinforcement Learning, Generative AI (LLMs, RAG),  
+Multimodal Learning, Affective Computing, Computer Vision, Speech Processing
+
+**Frameworks**  
+PyTorch, TensorFlow, Keras, HuggingFace, scikit-learn, XGBoost, LightGBM
+
+**Big Data & Distributed Systems**  
+Apache Spark, Hadoop, Kafka, Databricks, Dask, Polars
+
+**MLOps & Cloud**  
+Docker, Kubernetes, MLflow, Prefect, CI/CD, Azure, GCP
+
+**Databases & Vector Stores**  
+PostgreSQL, MongoDB, Cassandra, ElasticSearch, FAISS, Pinecone, Redis
+
+**Programming**  
+Python, C++, C, R, Julia, Scala, Bash
+
+---
+
+## 📜 Certifications
+
+- Google Advanced Data Analytics (Google Cloud, BigQuery)
+- IBM Data Science Specialization
+- Meta Data Analyst with GenAI
+- Microsoft Power BI Data Analyst
+- SAS Statistical Business Analyst
+
+---
+
+## 🌐 Languages
+
+- Tamil (Native)
+- English (Fluent)
+- French (A1)
+- Hindi
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/imadhavan  
+- 💻 **GitHub:** https://github.com/im-adhavan  
+- 📧 **Email:** adhavanmurugaiyan@gmail.com  
+
+---
+
+> *“Good models predict well.  
+Great models fail gracefully — and tell you why.”*
+
 
 
 ## 🌐 Socials:
