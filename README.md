@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Adhavan
+# 👋 Hi, I'm Adhavan Murugaiyan
 
-🎓 **Data Scientist | Machine Learning Researcher**  
+🎓 **Artificial Intelligence and Machine Learning Researcher | Statistical Machine Learning**  
 📍 India | 🌍 Open to international research collaboration
 
 ---
 
-I am a **Data Scientist and Machine Learning researcher** with strong interests in **multimodal learning, trustworthy AI, and scalable ML systems**.  
+I am a **Artificial Intelligence and Machine Learning researcher** with strong interests in **multimodal learning, trustworthy AI, and scalable ML systems**.  
 My work focuses on building **robust, interpretable, and real-world deployable AI models**, especially under **resource, data, and fairness constraints**.
 
 I enjoy working on problems where:
